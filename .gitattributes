@@ -1,0 +1,2 @@
+weights/simclr_epoch_49.ckpt filter=lfs diff=lfs merge=lfs -text
+weights/nnclr_epoch_49.ckpt filter=lfs diff=lfs merge=lfs -text
